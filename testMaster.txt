@@ -1,0 +1,2 @@
+test for master to git commit --amend
+
