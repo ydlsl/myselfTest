@@ -1,3 +1,4 @@
 just for master cancle 2
 
+test for git -- amend
 
