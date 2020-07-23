@@ -2,3 +2,8 @@ test for master to git commit --amend
 changed , will amend
 amend again
 
+afert push amend test
+
+
+pushed
+
