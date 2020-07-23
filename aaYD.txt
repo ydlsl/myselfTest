@@ -7,4 +7,8 @@ second tep: add
 	yd\master add for test
 	yd again
 
+<<<<<<< HEAD
 sourcetree test 2
+=======
+in yd
+>>>>>>> test master merge yd
